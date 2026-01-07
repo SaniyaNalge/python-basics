@@ -29,7 +29,7 @@ print(numbers)
 numbers.pop()          # remove last item
 print(numbers)
 
-#aggregate functions()
+#aggregate list functions()
 numbers = [5, 2, 9, 1]
 
 print(len(numbers))   # length
